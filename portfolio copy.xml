@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE portfolio SYSTEM "structured.dtd">
+
+<portfolio>
+
+<!--Language-->
+  <collections subject="chai">
+    <client>The Chai Series, made possible by Rimon</client>
+    <pieces>18</pieces>
+    <medium>Windows</medium>
+    <description>The Chai Series was made possible in part with the support of Rimon: The Minnesota Jewish Arts Council, an initiative of the Minneapolis Jewish Federation. The Chai Series is an artistic collection of 18, 100-year old windows, restored and designed to highlight Jewish concepts of creation. It integrates historical religious art forms like Micrography, Calligraphy, and Illumination to highlight text, therefore becoming a form of visual midrash and the point of personal revelation by the viewer.</description>
+  </collections>
+
+  <collections subject="home">
+    <client>Home renovations and repairs</client>
+    <pieces>Ongoing</pieces>
+    <medium>Wood</medium>
+    <description>I am an artist who finds value working with found objects and restoring beauty to these objects. Another creative outlet for me is home renovation and repairs. I enjoy restoring old wood in historic homes and creating beautiful spaces that invite reflection and spirituality.</description>
+  </collections>
+
+  <collections subject="poetry">
+    <client>Poetry by the artist</client>
+    <pieces>Ongoing</pieces>
+    <medium>Variable</medium>
+    <description>Awaiting content from the artist.</description>
+  </collections>
+
+  <collections subject="current">
+    <client>Current Works by Kyna EM Levi</client>
+    <pieces>Ongoing</pieces>
+    <medium>Variable</medium>
+    <description>Currently between projects, I am working on a varity of artistic pursuits. Awaiting more content from the artist.</description>
+  </collections>
+
+</portfolio>

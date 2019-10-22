@@ -1,0 +1,7 @@
+<!ELEMENT artist portfolio (collections+)>
+<!ELEMENT collections (client, pieces, description, medium)>
+<!ATTLIST projects (chai|home|poetry|current) #REQUIRED>
+<!ELEMENT client (#PCDATA)>
+<!ELEMENT pieces (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT medium (#PCDATA)>
